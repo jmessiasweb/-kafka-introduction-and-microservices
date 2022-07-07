@@ -5,23 +5,22 @@
       <module fileurl="file://$PROJECT_DIR$/video5.1/ecommerce/common-kafka/common-kafka.iml" filepath="$PROJECT_DIR$/video5.1/ecommerce/common-kafka/common-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/video5.2/ecommerce/common-kafka/common-kafka (1).iml" filepath="$PROJECT_DIR$/video5.2/ecommerce/common-kafka/common-kafka (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/video5.3/ecommerce/common-kafka/common-kafka (2).iml" filepath="$PROJECT_DIR$/video5.3/ecommerce/common-kafka/common-kafka (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video1.3/ecommerce/ecommerce.iml" filepath="$PROJECT_DIR$/video1.3/ecommerce/ecommerce.iml" />
-      <module fileurl="file://$PROJECT_DIR$/video1.4/ecommerce/ecommerce (1).iml" filepath="$PROJECT_DIR$/video1.4/ecommerce/ecommerce (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video4.3/ecommerce/ecommerce (10).iml" filepath="$PROJECT_DIR$/video4.3/ecommerce/ecommerce (10).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video4.4/ecommerce/ecommerce (11).iml" filepath="$PROJECT_DIR$/video4.4/ecommerce/ecommerce (11).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video4.5/ecommerce/ecommerce (12).iml" filepath="$PROJECT_DIR$/video4.5/ecommerce/ecommerce (12).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video5.1/ecommerce/ecommerce (13).iml" filepath="$PROJECT_DIR$/video5.1/ecommerce/ecommerce (13).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video5.2/ecommerce/ecommerce (14).iml" filepath="$PROJECT_DIR$/video5.2/ecommerce/ecommerce (14).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video5.3/ecommerce/ecommerce (15).iml" filepath="$PROJECT_DIR$/video5.3/ecommerce/ecommerce (15).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video1.5/ecommerce/ecommerce (2).iml" filepath="$PROJECT_DIR$/video1.5/ecommerce/ecommerce (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video2.1/ecommerce/ecommerce (3).iml" filepath="$PROJECT_DIR$/video2.1/ecommerce/ecommerce (3).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video2.2/ecommerce/ecommerce (4).iml" filepath="$PROJECT_DIR$/video2.2/ecommerce/ecommerce (4).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video2.3/ecommerce/ecommerce (5).iml" filepath="$PROJECT_DIR$/video2.3/ecommerce/ecommerce (5).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/ecommerce (6).iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/ecommerce (6).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/ecommerce (7).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/ecommerce (7).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/ecommerce (8).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/ecommerce (8).iml" />
-      <module fileurl="file://$PROJECT_DIR$/video4.2/ecommerce/ecommerce (9).iml" filepath="$PROJECT_DIR$/video4.2/ecommerce/ecommerce (9).iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/kafka-introducao-e-microservicos-master.iml" filepath="$PROJECT_DIR$/.idea/kafka-introducao-e-microservicos-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video1.4/ecommerce/ecommerce.iml" filepath="$PROJECT_DIR$/video1.4/ecommerce/ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video1.5/ecommerce/ecommerce (1).iml" filepath="$PROJECT_DIR$/video1.5/ecommerce/ecommerce (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.4/ecommerce/ecommerce (10).iml" filepath="$PROJECT_DIR$/video4.4/ecommerce/ecommerce (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.5/ecommerce/ecommerce (11).iml" filepath="$PROJECT_DIR$/video4.5/ecommerce/ecommerce (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video5.1/ecommerce/ecommerce (12).iml" filepath="$PROJECT_DIR$/video5.1/ecommerce/ecommerce (12).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video5.2/ecommerce/ecommerce (13).iml" filepath="$PROJECT_DIR$/video5.2/ecommerce/ecommerce (13).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video5.3/ecommerce/ecommerce (14).iml" filepath="$PROJECT_DIR$/video5.3/ecommerce/ecommerce (14).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.1/ecommerce/ecommerce (2).iml" filepath="$PROJECT_DIR$/video2.1/ecommerce/ecommerce (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.2/ecommerce/ecommerce (3).iml" filepath="$PROJECT_DIR$/video2.2/ecommerce/ecommerce (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.3/ecommerce/ecommerce (4).iml" filepath="$PROJECT_DIR$/video2.3/ecommerce/ecommerce (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/ecommerce (5).iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/ecommerce (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/ecommerce (6).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/ecommerce (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/ecommerce (7).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/ecommerce (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.2/ecommerce/ecommerce (8).iml" filepath="$PROJECT_DIR$/video4.2/ecommerce/ecommerce (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.3/ecommerce/ecommerce (9).iml" filepath="$PROJECT_DIR$/video4.3/ecommerce/ecommerce (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kafka-introducao-e-microservicos.iml" filepath="$PROJECT_DIR$/.idea/kafka-introducao-e-microservicos.iml" />
       <module fileurl="file://$PROJECT_DIR$/video5.1/ecommerce/service-email/service-email.iml" filepath="$PROJECT_DIR$/video5.1/ecommerce/service-email/service-email.iml" />
       <module fileurl="file://$PROJECT_DIR$/video5.2/ecommerce/service-email/service-email (1).iml" filepath="$PROJECT_DIR$/video5.2/ecommerce/service-email/service-email (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/video5.3/ecommerce/service-email/service-email (2).iml" filepath="$PROJECT_DIR$/video5.3/ecommerce/service-email/service-email (2).iml" />
